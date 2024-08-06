@@ -1,2 +1,4 @@
 # LatexGPT
-Get text2latex locally with LatexGPT with near instant response-times! Get integrations for your favourite writing application!
+
+LatexGPT is a project providing _**fine-tuned small language models**_ for text2latex along with a high quality open-source text2latex dataset.
+
