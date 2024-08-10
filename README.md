@@ -1,7 +1,7 @@
 # LatexGPT
 
 <p align="center">
-  <img src="https://github.com/SuchitG04/LatexGPT/blob/main/latexgpt2-removebg-preview.png" width="30%">
+  <img src="https://github.com/SuchitG04/LatexGPT/blob/main/latexgpt.png" width="30%">
 </p>
 
 LatexGPT is a project providing **fine-tuned small language models** for _**text2latex**_ along with a high quality _open-source text2latex dataset_.
