@@ -1,0 +1,280 @@
+INFO:datagen: [DATA_GEN] Starting generation for line 1 type 'desc'
+INFO:datagen: [LLM] Sending request to LLM
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:datagen: [LLM] Received response from LLM
+INFO:datagen: [DATA_PERSIST] Persisting data of type desc
+INFO:datagen: [DATA_PERSIST] Successfully persisted data of type desc
+INFO:datagen: [DATA_GEN] Finished generation for line 1 type 'desc'
+INFO:datagen: [DATA_GEN] Starting generation for line 1 type 'nl'
+INFO:datagen: [LLM] Sending request to LLM
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:datagen: [LLM] Received response from LLM
+INFO:datagen: [DATA_PERSIST] Persisting data of type nl
+INFO:datagen: [DATA_PERSIST] Successfully persisted data of type nl
+INFO:datagen: [DATA_GEN] Finished generation for line 1 type 'nl'
+INFO:datagen: [DATA_GEN] Starting generation for line 2 type 'desc'
+INFO:datagen: [LLM] Sending request to LLM
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:datagen: [LLM] Received response from LLM
+INFO:datagen: [DATA_PERSIST] Persisting data of type desc
+INFO:datagen: [DATA_PERSIST] Successfully persisted data of type desc
+INFO:datagen: [DATA_GEN] Finished generation for line 2 type 'desc'
+INFO:datagen: [DATA_GEN] Starting generation for line 2 type 'nl'
+INFO:datagen: [LLM] Sending request to LLM
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:datagen: [LLM] Received response from LLM
+INFO:datagen: [DATA_PERSIST] Persisting data of type nl
+INFO:datagen: [DATA_PERSIST] Successfully persisted data of type nl
+INFO:datagen: [DATA_GEN] Finished generation for line 2 type 'nl'
+INFO:datagen: [DATA_GEN] Starting generation for line 3 type 'desc'
+INFO:datagen: [LLM] Sending request to LLM
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:datagen: [LLM] Received response from LLM
+INFO:datagen: [DATA_PERSIST] Persisting data of type desc
+INFO:datagen: [DATA_PERSIST] Successfully persisted data of type desc
+INFO:datagen: [DATA_GEN] Finished generation for line 3 type 'desc'
+INFO:datagen: [DATA_GEN] Starting generation for line 3 type 'nl'
+INFO:datagen: [LLM] Sending request to LLM
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:datagen: [LLM] Received response from LLM
+INFO:datagen: [DATA_PERSIST] Persisting data of type nl
+INFO:datagen: [DATA_PERSIST] Successfully persisted data of type nl
+INFO:datagen: [DATA_GEN] Finished generation for line 3 type 'nl'
+INFO:datagen: [DATA_GEN] Starting generation for line 4 type 'desc'
+INFO:datagen: [LLM] Sending request to LLM
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:datagen: [LLM] Received response from LLM
+INFO:datagen: [DATA_PERSIST] Persisting data of type desc
+INFO:datagen: [DATA_PERSIST] Successfully persisted data of type desc
+INFO:datagen: [DATA_GEN] Finished generation for line 4 type 'desc'
+INFO:datagen: [DATA_GEN] Starting generation for line 4 type 'nl'
+INFO:datagen: [LLM] Sending request to LLM
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:datagen: [LLM] Received response from LLM
+INFO:datagen: [DATA_PERSIST] Persisting data of type nl
+INFO:datagen: [DATA_PERSIST] Successfully persisted data of type nl
+INFO:datagen: [DATA_GEN] Finished generation for line 4 type 'nl'
+INFO:datagen: [DATA_GEN] Starting generation for line 5 type 'desc'
+INFO:datagen: [LLM] Sending request to LLM
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:datagen: [LLM] Received response from LLM
+INFO:datagen: [DATA_PERSIST] Persisting data of type desc
+INFO:datagen: [DATA_PERSIST] Successfully persisted data of type desc
+INFO:datagen: [DATA_GEN] Finished generation for line 5 type 'desc'
+INFO:datagen: [DATA_GEN] Starting generation for line 5 type 'nl'
+INFO:datagen: [LLM] Sending request to LLM
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:datagen: [LLM] Received response from LLM
+INFO:datagen: [DATA_PERSIST] Persisting data of type nl
+INFO:datagen: [DATA_PERSIST] Successfully persisted data of type nl
+INFO:datagen: [DATA_GEN] Finished generation for line 5 type 'nl'
+INFO:datagen: [DATA_GEN] Starting generation for line 6 type 'desc'
+INFO:datagen: [LLM] Sending request to LLM
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:datagen: [LLM] Received response from LLM
+INFO:datagen: [DATA_PERSIST] Persisting data of type desc
+INFO:datagen: [DATA_PERSIST] Successfully persisted data of type desc
+INFO:datagen: [DATA_GEN] Finished generation for line 6 type 'desc'
+INFO:datagen: [DATA_GEN] Starting generation for line 6 type 'nl'
+INFO:datagen: [LLM] Sending request to LLM
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:datagen: [LLM] Received response from LLM
+INFO:datagen: [DATA_PERSIST] Persisting data of type nl
+INFO:datagen: [DATA_PERSIST] Successfully persisted data of type nl
+INFO:datagen: [DATA_GEN] Finished generation for line 6 type 'nl'
+INFO:datagen: [DATA_GEN] Starting generation for line 7 type 'desc'
+INFO:datagen: [LLM] Sending request to LLM
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:datagen: [LLM] Received response from LLM
+INFO:datagen: [DATA_PERSIST] Persisting data of type desc
+INFO:datagen: [DATA_PERSIST] Successfully persisted data of type desc
+INFO:datagen: [DATA_GEN] Finished generation for line 7 type 'desc'
+INFO:datagen: [DATA_GEN] Starting generation for line 7 type 'nl'
+INFO:datagen: [LLM] Sending request to LLM
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:datagen: [LLM] Received response from LLM
+INFO:datagen: [DATA_PERSIST] Persisting data of type nl
+INFO:datagen: [DATA_PERSIST] Successfully persisted data of type nl
+INFO:datagen: [DATA_GEN] Finished generation for line 7 type 'nl'
+INFO:datagen: [DATA_GEN] Starting generation for line 8 type 'desc'
+INFO:datagen: [LLM] Sending request to LLM
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:datagen: [LLM] Received response from LLM
+INFO:datagen: [DATA_PERSIST] Persisting data of type desc
+INFO:datagen: [DATA_PERSIST] Successfully persisted data of type desc
+INFO:datagen: [DATA_GEN] Finished generation for line 8 type 'desc'
+INFO:datagen: [DATA_GEN] Starting generation for line 8 type 'nl'
+INFO:datagen: [LLM] Sending request to LLM
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:datagen: [LLM] Received response from LLM
+INFO:datagen: [DATA_PERSIST] Persisting data of type nl
+INFO:datagen: [DATA_PERSIST] Successfully persisted data of type nl
+INFO:datagen: [DATA_GEN] Finished generation for line 8 type 'nl'
+INFO:datagen: [DATA_GEN] Starting generation for line 9 type 'desc'
+INFO:datagen: [LLM] Sending request to LLM
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:datagen: [LLM] Received response from LLM
+INFO:datagen: [DATA_PERSIST] Persisting data of type desc
+INFO:datagen: [DATA_PERSIST] Successfully persisted data of type desc
+INFO:datagen: [DATA_GEN] Finished generation for line 9 type 'desc'
+INFO:datagen: [DATA_GEN] Starting generation for line 9 type 'nl'
+INFO:datagen: [LLM] Sending request to LLM
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:datagen: [LLM] Received response from LLM
+INFO:datagen: [DATA_PERSIST] Persisting data of type nl
+INFO:datagen: [DATA_PERSIST] Successfully persisted data of type nl
+INFO:datagen: [DATA_GEN] Finished generation for line 9 type 'nl'
+INFO:datagen: [DATA_GEN] Starting generation for line 10 type 'desc'
+INFO:datagen: [LLM] Sending request to LLM
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:datagen: [LLM] Received response from LLM
+INFO:datagen: [DATA_PERSIST] Persisting data of type desc
+INFO:datagen: [DATA_PERSIST] Successfully persisted data of type desc
+INFO:datagen: [DATA_GEN] Finished generation for line 10 type 'desc'
+INFO:datagen: [DATA_GEN] Starting generation for line 10 type 'nl'
+INFO:datagen: [LLM] Sending request to LLM
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:datagen: [LLM] Received response from LLM
+INFO:datagen: [DATA_PERSIST] Persisting data of type nl
+INFO:datagen: [DATA_PERSIST] Successfully persisted data of type nl
+INFO:datagen: [DATA_GEN] Finished generation for line 10 type 'nl'
+INFO:datagen: [DATA_GEN] Starting generation for line 11 type 'desc'
+INFO:datagen: [LLM] Sending request to LLM
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:datagen: [LLM] Received response from LLM
+INFO:datagen: [DATA_PERSIST] Persisting data of type desc
+INFO:datagen: [DATA_PERSIST] Successfully persisted data of type desc
+INFO:datagen: [DATA_GEN] Finished generation for line 11 type 'desc'
+INFO:datagen: [DATA_GEN] Starting generation for line 11 type 'nl'
+INFO:datagen: [LLM] Sending request to LLM
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:datagen: [LLM] Received response from LLM
+INFO:datagen: [DATA_PERSIST] Persisting data of type nl
+INFO:datagen: [DATA_PERSIST] Successfully persisted data of type nl
+INFO:datagen: [DATA_GEN] Finished generation for line 11 type 'nl'
+INFO:datagen: [DATA_GEN] Starting generation for line 12 type 'desc'
+INFO:datagen: [LLM] Sending request to LLM
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:datagen: [LLM] Received response from LLM
+INFO:datagen: [DATA_PERSIST] Persisting data of type desc
+INFO:datagen: [DATA_PERSIST] Successfully persisted data of type desc
+INFO:datagen: [DATA_GEN] Finished generation for line 12 type 'desc'
+INFO:datagen: [DATA_GEN] Starting generation for line 12 type 'nl'
+INFO:datagen: [LLM] Sending request to LLM
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:datagen: [LLM] Received response from LLM
+INFO:datagen: [DATA_PERSIST] Persisting data of type nl
+INFO:datagen: [DATA_PERSIST] Successfully persisted data of type nl
+INFO:datagen: [DATA_GEN] Finished generation for line 12 type 'nl'
+INFO:datagen: [DATA_GEN] Starting generation for line 13 type 'desc'
+INFO:datagen: [LLM] Sending request to LLM
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:datagen: [LLM] Received response from LLM
+INFO:datagen: [DATA_PERSIST] Persisting data of type desc
+INFO:datagen: [DATA_PERSIST] Successfully persisted data of type desc
+INFO:datagen: [DATA_GEN] Finished generation for line 13 type 'desc'
+INFO:datagen: [DATA_GEN] Starting generation for line 13 type 'nl'
+INFO:datagen: [LLM] Sending request to LLM
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:datagen: [LLM] Received response from LLM
+INFO:datagen: [DATA_PERSIST] Persisting data of type nl
+INFO:datagen: [DATA_PERSIST] Successfully persisted data of type nl
+INFO:datagen: [DATA_GEN] Finished generation for line 13 type 'nl'
+INFO:datagen: [DATA_GEN] Starting generation for line 14 type 'desc'
+INFO:datagen: [LLM] Sending request to LLM
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:datagen: [LLM] Received response from LLM
+INFO:datagen: [DATA_PERSIST] Persisting data of type desc
+INFO:datagen: [DATA_PERSIST] Successfully persisted data of type desc
+INFO:datagen: [DATA_GEN] Finished generation for line 14 type 'desc'
+INFO:datagen: [DATA_GEN] Starting generation for line 14 type 'nl'
+INFO:datagen: [LLM] Sending request to LLM
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:datagen: [LLM] Received response from LLM
+INFO:datagen: [DATA_PERSIST] Persisting data of type nl
+INFO:datagen: [DATA_PERSIST] Successfully persisted data of type nl
+INFO:datagen: [DATA_GEN] Finished generation for line 14 type 'nl'
+INFO:datagen: [DATA_GEN] Starting generation for line 15 type 'desc'
+INFO:datagen: [LLM] Sending request to LLM
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:datagen: [LLM] Received response from LLM
+INFO:datagen: [DATA_PERSIST] Persisting data of type desc
+INFO:datagen: [DATA_PERSIST] Successfully persisted data of type desc
+INFO:datagen: [DATA_GEN] Finished generation for line 15 type 'desc'
+INFO:datagen: [DATA_GEN] Starting generation for line 15 type 'nl'
+INFO:datagen: [LLM] Sending request to LLM
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:datagen: [LLM] Received response from LLM
+INFO:datagen: [DATA_PERSIST] Persisting data of type nl
+INFO:datagen: [DATA_PERSIST] Successfully persisted data of type nl
+INFO:datagen: [DATA_GEN] Finished generation for line 15 type 'nl'
+INFO:datagen: [DATA_GEN] Starting generation for line 16 type 'desc'
+INFO:datagen: [LLM] Sending request to LLM
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:datagen: [LLM] Received response from LLM
+INFO:datagen: [DATA_PERSIST] Persisting data of type desc
+INFO:datagen: [DATA_PERSIST] Successfully persisted data of type desc
+INFO:datagen: [DATA_GEN] Finished generation for line 16 type 'desc'
+INFO:datagen: [DATA_GEN] Starting generation for line 16 type 'nl'
+INFO:datagen: [LLM] Sending request to LLM
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:datagen: [LLM] Received response from LLM
+INFO:datagen: [DATA_PERSIST] Persisting data of type nl
+INFO:datagen: [DATA_PERSIST] Successfully persisted data of type nl
+INFO:datagen: [DATA_GEN] Finished generation for line 16 type 'nl'
+INFO:datagen: [DATA_GEN] Starting generation for line 17 type 'desc'
+INFO:datagen: [LLM] Sending request to LLM
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:datagen: [LLM] Received response from LLM
+INFO:datagen: [DATA_PERSIST] Persisting data of type desc
+INFO:datagen: [DATA_PERSIST] Successfully persisted data of type desc
+INFO:datagen: [DATA_GEN] Finished generation for line 17 type 'desc'
+INFO:datagen: [DATA_GEN] Starting generation for line 17 type 'nl'
+INFO:datagen: [LLM] Sending request to LLM
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:datagen: [LLM] Received response from LLM
+INFO:datagen: [DATA_PERSIST] Persisting data of type nl
+INFO:datagen: [DATA_PERSIST] Successfully persisted data of type nl
+INFO:datagen: [DATA_GEN] Finished generation for line 17 type 'nl'
+INFO:datagen: [DATA_GEN] Starting generation for line 18 type 'desc'
+INFO:datagen: [LLM] Sending request to LLM
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:datagen: [LLM] Received response from LLM
+INFO:datagen: [DATA_PERSIST] Persisting data of type desc
+INFO:datagen: [DATA_PERSIST] Successfully persisted data of type desc
+INFO:datagen: [DATA_GEN] Finished generation for line 18 type 'desc'
+INFO:datagen: [DATA_GEN] Starting generation for line 18 type 'nl'
+INFO:datagen: [LLM] Sending request to LLM
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:datagen: [LLM] Received response from LLM
+INFO:datagen: [DATA_PERSIST] Persisting data of type nl
+INFO:datagen: [DATA_PERSIST] Successfully persisted data of type nl
+INFO:datagen: [DATA_GEN] Finished generation for line 18 type 'nl'
+INFO:datagen: [DATA_GEN] Starting generation for line 19 type 'desc'
+INFO:datagen: [LLM] Sending request to LLM
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:datagen: [LLM] Received response from LLM
+INFO:datagen: [DATA_PERSIST] Persisting data of type desc
+INFO:datagen: [DATA_PERSIST] Successfully persisted data of type desc
+INFO:datagen: [DATA_GEN] Finished generation for line 19 type 'desc'
+INFO:datagen: [DATA_GEN] Starting generation for line 19 type 'nl'
+INFO:datagen: [LLM] Sending request to LLM
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:datagen: [LLM] Received response from LLM
+INFO:datagen: [DATA_PERSIST] Persisting data of type nl
+INFO:datagen: [DATA_PERSIST] Successfully persisted data of type nl
+INFO:datagen: [DATA_GEN] Finished generation for line 19 type 'nl'
+INFO:datagen: [DATA_GEN] Starting generation for line 20 type 'desc'
+INFO:datagen: [LLM] Sending request to LLM
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:datagen: [LLM] Received response from LLM
+INFO:datagen: [DATA_PERSIST] Persisting data of type desc
+INFO:datagen: [DATA_PERSIST] Successfully persisted data of type desc
+INFO:datagen: [DATA_GEN] Finished generation for line 20 type 'desc'
+INFO:datagen: [DATA_GEN] Starting generation for line 20 type 'nl'
+INFO:datagen: [LLM] Sending request to LLM
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:datagen: [LLM] Received response from LLM
+INFO:datagen: [DATA_PERSIST] Persisting data of type nl
+INFO:datagen: [DATA_PERSIST] Successfully persisted data of type nl
+INFO:datagen: [DATA_GEN] Finished generation for line 20 type 'nl'
