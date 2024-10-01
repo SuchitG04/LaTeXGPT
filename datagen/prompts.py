@@ -1,4 +1,4 @@
-description_sys_prompt = """Given a LaTeX mathematical equation, provide a detailed description of the formula, covering all essential elements needed to recreate the original equation, including variable names, operations, and structure.
+description_sys_prompt = r"""Given a LaTeX mathematical equation, provide a detailed description of the formula, covering all essential elements needed to recreate the original equation, including variable names, operations, and structure.
 
 Rules for description:
 - Offer a thorough explanation of the formula's structure and its components.
@@ -27,7 +27,7 @@ Matrix equation defining T. Left side: T. Right side: 2x2 matrix enclosed in par
 Provide only the description as output, without any additional text or formatting.
 """
 
-nl_sys_prompt = """Given a LaTeX mathematical equation, translate the equation into natural language, spelling out all symbols, numbers, and alphabets.
+nl_sys_prompt = r"""Given a LaTeX mathematical equation, translate the equation into natural language, spelling out all symbols, numbers, and alphabets.
 
 Rules for the natural language translation:
 - Replace Greek letters with their English names (e.g., α becomes "alpha", β becomes "beta").
